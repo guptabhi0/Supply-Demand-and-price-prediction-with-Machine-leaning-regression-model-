@@ -49,8 +49,4 @@ Result:
 
 Conclusion:
 
-In this Project, with the help of three regression-based ML models we have predict the price of import shipment containers in the Australian shipping industry.
-The container price is predicted based on current demand and available supply.
-To analyze the performance of these models, R2 score, accuracy, and RMSE are measured.
-Our study shows that using the ML algorithm for predicting shipment prices can positively affect the shipping industry.
-Comparing accuracy we get the GBR model to be best in all case training, testing and validation also.
+In this Project, with the help of three regression-based ML models we have predict the price of import shipment containers in the Australian shipping industry. The container price is predicted based on current demand and available supply. To analyze the performance of these models, R2 score, accuracy, and RMSE are measured. Our study shows that using the ML algorithm for predicting shipment prices can positively affect the shipping industry. Comparing accuracy we get the GBR model to be best in all case training, testing and validation also.
