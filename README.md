@@ -26,11 +26,9 @@ Pre-processing of DATA
 
 The total shipment demand for imports of ports of Asia-Oceania trade lane can be calculated by summing of full and empty containers for imports.
 
-                                                                      D (I) = CF (I) + CE (I)
+                                                            D (I) = CF (I) + CE (I)
                            
-D (I) represents total import shipment demand for Asia-Oceania trade lane And, CF (I) and CE (I) represents a total of full and empty containers for imports in Asia Oceania trade lane.
-
-Once the weekly shipment demand is calculated for each port, they are summed up to get total shipment demand for the Asia Oceania trade lane.
+D (I) represents total import shipment demand for Asia-Oceania trade lane And, CF (I) and CE (I) represents a total of full and empty containers for imports in Asia Oceania trade lane. Once the weekly shipment demand is calculated for each port, they are summed up to get total shipment demand for the Asia Oceania trade lane.
 
 ![image](https://user-images.githubusercontent.com/46283676/145197038-87af389b-bb94-4d25-bc7b-23597afe3f35.png)
 
